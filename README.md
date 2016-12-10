@@ -2,8 +2,11 @@
 
 This repository contains a machine learning model used to predict two species of lizards whether it is going to be Western fence lizard or Side-blotched lizard. The implementation utilizes Neural Network technique. 
 
+```
 data - contains data used to create model
+
 model - contains neural network model used for prediction
+```
 
 This work is a part of final project for Fall 2016 CL57-14.
 
